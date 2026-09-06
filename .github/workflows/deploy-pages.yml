@@ -35,7 +35,7 @@ jobs:
       - name: Prepare static website
         run: |
           mkdir -p "$RUNNER_TEMP/site"
-          cp index.html styles.css script.js "$RUNNER_TEMP/site/"
+          cp index.html styles.css script.js our-moment.jpg "$RUNNER_TEMP/site/"
 
       - name: Upload website
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3.0.1

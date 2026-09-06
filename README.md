@@ -26,8 +26,8 @@ Open <http://localhost:8080>. No installation or build is required.
    <https://gsubhashreddy.github.io/will-you-marry-me-lalithya/>.
 
 To redeploy, select that workflow under **Actions → Run workflow** and choose
-`main`. The workflow only deploys `main` and publishes just the three website
-files, not repository metadata or documentation.
+`main`. The workflow only deploys `main` and publishes the HTML, CSS, JavaScript,
+and `our-moment.jpg` celebration image, not repository metadata or documentation.
 
 The URL above is the intended published address; it will not serve this website
 until Pages is enabled and the deployment succeeds. GitHub Pages is public, so
