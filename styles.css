@@ -545,6 +545,30 @@ body.celebrated footer {
   font-style: italic;
 }
 
+.celebration-memory {
+  margin: 0 auto 1.8rem;
+}
+
+.celebration-memory img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 65svh;
+  margin-inline: auto;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  box-shadow: var(--shadow);
+}
+
+.celebration-memory figcaption {
+  margin-top: 1.2rem;
+  color: var(--rose);
+  font-family: var(--serif);
+  font-size: clamp(1.1rem, 2.5vw, 1.35rem);
+  font-style: italic;
+}
+
 .forever-promise {
   display: grid;
   max-width: 500px;
