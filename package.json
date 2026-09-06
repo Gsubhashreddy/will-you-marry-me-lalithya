@@ -1,0 +1,12 @@
+{
+  "name": "will-you-marry-me-lalithya",
+  "version": "1.0.0",
+  "description": "A romantic marriage proposal for Lalithya, with animated hearts and a joyful Yes celebration.",
+  "private": true,
+  "scripts": {},
+  "keywords": [
+    "proposal",
+    "static-site"
+  ],
+  "license": "UNLICENSED"
+}
